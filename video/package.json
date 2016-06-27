@@ -1,0 +1,27 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "## Technologies being used (stack): 1. Express fwk. 2. NodeJs.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdiazaguirre/poc.git"
+  },
+  "keywords": [
+    "streaming"
+  ],
+  "author": "fdiazaguirre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdiazaguirre/poc/issues"
+  },
+  "homepage": "https://github.com/fdiazaguirre/poc#readme"
+}
